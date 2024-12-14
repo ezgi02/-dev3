@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yemek Sepeti</string>
+    <string name="pleceholder1">Resteron veya mağaza arayın</string>
+    <string name="baslik1">İlk siparişine 150 Tl</string>
+    <string name="baslik2">indirim!Kupon Kodu</string>
+    <string name="baslik3">Merhaba</string>
+    <string name="baslik4">Şimdi sipariş ver</string>
+    <string name="fırsatlar">Fırsatlar</string>
+    <string name="ymarket">Y Market</string>
+    <string name="kuponlarım">Kuponlarım</string>
+    <string name="gerial">Geri al</string>
+    <string name="tatli">Tatlı</string>
+    <string name="burger">Burger</string>
+    <string name="pizza">Pizza</string>
+    <string name="tavuk">Tavuk</string>
+    <string name="sıralama">Sıralama</string>
+    <string name="mutfak">Mutfak</string>
+    <string name="sepetTutari">Sepet Tutarı</string>
+</resources>

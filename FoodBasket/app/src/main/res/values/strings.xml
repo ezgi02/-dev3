@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Food Delivery</string>
+    <string name="pleceholder1">Search for a restaurant or store</string>
+    <string name="baslik1">150 TL on your first order</string>
+    <string name="baslik2">discount! Coupon Code</string>
+    <string name="baslik3">Hello</string>
+    <string name="baslik4">Order now</string>
+    <string name="fırsatlar">Deals</string>
+    <string name="ymarket">Y Market</string>
+    <string name="kuponlarım">My Coupons</string>
+    <string name="gerial">Undo</string>
+    <string name="tatli">Dessert</string>
+    <string name="burger">Burger</string>
+    <string name="pizza">Pizza</string>
+    <string name="tavuk">Chicken</string>
+    <string name="sıralama">Sort</string>
+    <string name="mutfak">Cuisine</string>
+    <string name="sepetTutari">Cart Total</string>
+</resources>
